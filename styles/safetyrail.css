@@ -1,0 +1,69 @@
+:root {
+    --primary: #8e24aa;
+}
+
+h1,
+h3 {
+    font-weight: normal;
+}
+
+[role=button] {
+    color: #000000;
+}
+
+/* Navigation */
+nav {
+    background-color: #F3F5FF;
+}
+
+nav ul a {
+    color: hsl(205, 20%, 32%);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+nav ul a:hover {
+    text-decoration: underline;
+}
+
+/* Mobile nav */
+details[role=list] {
+    padding-top: 3px;
+}
+
+details[role=list] summary::after {
+    display: none;
+}
+
+nav details[role=list] summary[role=link]+ul {
+    margin-left: -140px;
+}
+
+@media (min-width: 769px) {
+    details[role=list] {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    nav ul .desktop {
+        display: none;
+    }
+}
+
+/* Mobile images */
+@media (min-width: 992px) {
+    .phonepic {
+        margin: 50px;
+    }
+
+    .phonepic img {
+        float: right;
+    }
+}
+
+/* Footer */
+footer {
+    font-size: 10px;
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "styles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node node_modules/sass/sass.js --no-source-map --style compressed safetyrail-pico.scss safetyrail-pico.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@picocss/pico": "^1.5.10",
+    "sass": "^1.68.0"
+  }
+}
