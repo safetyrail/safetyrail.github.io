@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://safetyrail.app/feed.xml" rel="self" type="application/atom+xml" /><link href="https://safetyrail.app/" rel="alternate" type="text/html" /><updated>2023-10-02T16:44:09+03:00</updated><id>https://safetyrail.app/feed.xml</id><entry><title type="html">Credit cards stolen by faked Booking.com site</title><link href="https://safetyrail.app/news/2023/10/02/faked-bookingcom" rel="alternate" type="text/html" title="Credit cards stolen by faked Booking.com site" /><published>2023-10-02T00:00:00+03:00</published><updated>2023-10-02T00:00:00+03:00</updated><id>https://safetyrail.app/news/2023/10/02/faked-bookingcom</id><content type="html" xml:base="https://safetyrail.app/news/2023/10/02/faked-bookingcom"><![CDATA[<hgroup>
+    <h3>Credit cards stolen by faked Booking.com site</h3>
+    <h3>How hotel hackers redirect guests to fake Booking.com to steal cards.</h3>
+</hgroup>
+
+<p>
+    <img src="/assets/images/hotel.jpg" alt="Hotel" />
+</p>
+<p>
+    In the attack described by Bleeping Computer, the attacker first establishes communication with a hotel and tricks them into installing 
+    info-stealing malware that operates silently on the hotel's computer. With access to messaging with legitimate customers, the cybercriminal 
+    can now send convincing messages to the final victims, the hotel customers.
+</p>
+<p>
+    The message requests additional credit card verification, 
+    leading the victim to a fake Booking.com payment page. Since the messaging appears to come genuinely from the hotel, 
+    the best way to detect this scam is to observe that the payment site is not running on the correct domain name.
+</p>
+
+<!--more-->
+
+<p>
+    <a href="https://www.bleepingcomputer.com/news/security/hotel-hackers-redirect-guests-to-fake-bookingcom-to-steal-cards/" rel=”noopener noreferrer" target="_blank">Read the article on Bleeping Computer  &#187;</a>
+</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Credit cards stolen by faked Booking.com site How hotel hackers redirect guests to fake Booking.com to steal cards. In the attack described by Bleeping Computer, the attacker first establishes communication with a hotel and tricks them into installing info-stealing malware that operates silently on the hotel's computer. With access to messaging with legitimate customers, the cybercriminal can now send convincing messages to the final victims, the hotel customers. The message requests additional credit card verification, leading the victim to a fake Booking.com payment page. Since the messaging appears to come genuinely from the hotel, the best way to detect this scam is to observe that the payment site is not running on the correct domain name.]]></summary></entry><entry><title type="html">Half of Cyber-Attacks Go Unreported</title><link href="https://safetyrail.app/news/2023/10/01/half-of-cyber-attacks-unreported" rel="alternate" type="text/html" title="Half of Cyber-Attacks Go Unreported" /><published>2023-10-01T00:00:00+03:00</published><updated>2023-10-01T00:00:00+03:00</updated><id>https://safetyrail.app/news/2023/10/01/half-of-cyber-attacks-unreported</id><content type="html" xml:base="https://safetyrail.app/news/2023/10/01/half-of-cyber-attacks-unreported"><![CDATA[<hgroup>
+    <h3>Half of cyber-attacks are not reported by IT leaders</h3>
+    <h3>According to a recent study, half of cyber-attacks are not reported internally or externally</h3>
+</hgroup>
+
+<p>
+    <img src="/assets/images/archive.jpg" alt="Archive" />
+</p>
+<p>
+    The Cybersecurity Disasters Survey Incident Reporting &amp; Disclosure Study has gained attention from Infosecurity Magazine, 
+    which reports that 40% of IT and security leaders have faced cyber-attacks, but 41% of them didn't report the incident internally, 
+    and 48% hid it from authorities.
+</p>
+<p>    
+    The number of leaders who are worried about the state of security is even greater: 74% admitted they were concerned about a future 
+    "cybersecurity disaster" impacting their organization.
+</p>
+
+<!--more-->
+
+<p>
+    <a href="https://www.infosecurity-magazine.com/news/half-cyberattacks-go-unreported/" rel=”noopener noreferrer" target="_blank">Read the article on Infosecurity Magazine  &#187;</a>
+</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Half of cyber-attacks are not reported by IT leaders According to a recent study, half of cyber-attacks are not reported internally or externally The Cybersecurity Disasters Survey Incident Reporting &amp; Disclosure Study has gained attention from Infosecurity Magazine, which reports that 40% of IT and security leaders have faced cyber-attacks, but 41% of them didn't report the incident internally, and 48% hid it from authorities. The number of leaders who are worried about the state of security is even greater: 74% admitted they were concerned about a future "cybersecurity disaster" impacting their organization.]]></summary></entry></feed>

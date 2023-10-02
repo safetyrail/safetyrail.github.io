@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://safetyrail.app/news/2023/10/01/half-of-cyber-attacks-unreported</loc>
+<lastmod>2023-10-01T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>https://safetyrail.app/news/2023/10/02/faked-bookingcom</loc>
+<lastmod>2023-10-02T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>https://safetyrail.app/enterprise</loc>
 </url>
 <url>
 <loc>https://safetyrail.app/</loc>
+</url>
+<url>
+<loc>https://safetyrail.app/news</loc>
 </url>
 <url>
 <loc>https://safetyrail.app/signup</loc>
