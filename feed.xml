@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://safetyrail.app/feed.xml" rel="self" type="application/atom+xml" /><link href="https://safetyrail.app/" rel="alternate" type="text/html" /><updated>2023-10-02T16:44:09+03:00</updated><id>https://safetyrail.app/feed.xml</id><entry><title type="html">Credit cards stolen by faked Booking.com site</title><link href="https://safetyrail.app/news/2023/10/02/faked-bookingcom" rel="alternate" type="text/html" title="Credit cards stolen by faked Booking.com site" /><published>2023-10-02T00:00:00+03:00</published><updated>2023-10-02T00:00:00+03:00</updated><id>https://safetyrail.app/news/2023/10/02/faked-bookingcom</id><content type="html" xml:base="https://safetyrail.app/news/2023/10/02/faked-bookingcom"><![CDATA[<hgroup>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://safetyrail.app/feed.xml" rel="self" type="application/atom+xml" /><link href="https://safetyrail.app/" rel="alternate" type="text/html" /><updated>2023-10-03T12:02:40+03:00</updated><id>https://safetyrail.app/feed.xml</id><entry><title type="html">How thousands of meta accounts got hacked and what would have prevented it</title><link href="https://safetyrail.app/news/2023/10/03/anatomy-of-facebook-account-breaches" rel="alternate" type="text/html" title="How thousands of meta accounts got hacked and what would have prevented it" /><published>2023-10-03T00:00:00+03:00</published><updated>2023-10-03T00:00:00+03:00</updated><id>https://safetyrail.app/news/2023/10/03/anatomy-of-facebook-account-breaches</id><content type="html" xml:base="https://safetyrail.app/news/2023/10/03/anatomy-of-facebook-account-breaches"><![CDATA[<hgroup>
+    <h3>How thousands of meta accounts got hacked and what would have prevented it</h3>
+    <h3>Vox discusses the anatomy of Facebook account breaches, and we examine both the causes behind them and the preventive measures that could have been taken.</h3>
+</hgroup>
+
+<p>
+    <img src="/assets/images/some.jpg" alt="Social media apps" />
+</p>
+<p>
+    Losing a Facebook account might not seem like the most significant issue, but losing a decade's worth of memories and Messenger chat history is indeed a major loss for many. Furthermore, losing access to third-party apps and websites where users have utilized Facebook Login for signing up can be a big headache.
+ </p>
+ <p>
+    So first of all, to prevent data loss, occasional backups are recommended (especially if you have photos of passed soldiers or chat logs related to custody disputes, as mentioned by the individuals intervieweded):
+    <ul>
+        <li>
+            Download a copy of your information on Facebook: <a href="https://www.facebook.com/help/212802592074644" rel=”noopener noreferrer" target="_blank">https://www.facebook.com/help/212802592074644</a>
+        </li>
+        <li>
+            Download a copy of your information on Messenger: <a href="https://www.facebook.com/help/messenger-app/713635396288741" rel=”noopener noreferrer" target="_blank">https://www.facebook.com/help/messenger-app/713635396288741</a>
+        </li>
+    </ul>    
+
+    <h3>How were the accounts hacked?</h3>
+</p>
+    Common methods for account hacks include weak or reused passwords, email compromise, or phishing. Many accounts have been hacked through cookie hijacking, which is often caused by malware (such as malicious browser extensions) on the victim's computer.
+</p>
+
+<p>
+    Multi-factor authentication can prevent password-based attacks, but if the session is active and a cookie is stolen, the attacker gains access to the platform. Platforms could mitigate further losses by implementing techniques such as enforcing re-login when a user's geographical location changes or requiring MFA when significant changes are made (e.g., email address, phone number, password).
+</p>
+
+<p>
+    Compromised Facebook accounts are used for various schemes. One common method to leverage breached accounts is to exploit the trust among the account holder's contacts. Sending phishing or promotional messages to the profile's friends provides a head start for further scams. Another mentioned tactic is to conduct Facebook marketing using the stolen account. If the account has payment methods available, the attacker can run their own advertisement campaigns "for free".
+</p>
+
+<p>
+    There are no waterproof solutions to prevent these scams. The end of the article summarizes the situation well: 
+    
+    <blockquote>
+        "[...] people should take things into their own hands by frequently backing up their data and performing safety checks to avoid getting hacked in the first place. That also means being aware of common online scams — everything from phishing emails to malicious links - and knowing how to avoid them."
+    </blockquote>
+</p>
+
+<!--more-->
+
+<p>
+    <a href="https://www.vox.com/technology/2023/9/28/23892964/facebook-account-hacked-theft-stolen-online-scams-meta" rel=”noopener noreferrer" target="_blank">Read the original article on Vox  &#187;</a>
+</p>]]></content><author><name></name></author><summary type="html"><![CDATA[How thousands of meta accounts got hacked and what would have prevented it Vox discusses the anatomy of Facebook account breaches, and we examine both the causes behind them and the preventive measures that could have been taken. Losing a Facebook account might not seem like the most significant issue, but losing a decade's worth of memories and Messenger chat history is indeed a major loss for many. Furthermore, losing access to third-party apps and websites where users have utilized Facebook Login for signing up can be a big headache. So first of all, to prevent data loss, occasional backups are recommended (especially if you have photos of passed soldiers or chat logs related to custody disputes, as mentioned by the individuals intervieweded): Download a copy of your information on Facebook: https://www.facebook.com/help/212802592074644 Download a copy of your information on Messenger: https://www.facebook.com/help/messenger-app/713635396288741 How were the accounts hacked? Common methods for account hacks include weak or reused passwords, email compromise, or phishing. Many accounts have been hacked through cookie hijacking, which is often caused by malware (such as malicious browser extensions) on the victim's computer. Multi-factor authentication can prevent password-based attacks, but if the session is active and a cookie is stolen, the attacker gains access to the platform. Platforms could mitigate further losses by implementing techniques such as enforcing re-login when a user's geographical location changes or requiring MFA when significant changes are made (e.g., email address, phone number, password). Compromised Facebook accounts are used for various schemes. One common method to leverage breached accounts is to exploit the trust among the account holder's contacts. Sending phishing or promotional messages to the profile's friends provides a head start for further scams. Another mentioned tactic is to conduct Facebook marketing using the stolen account. If the account has payment methods available, the attacker can run their own advertisement campaigns "for free". There are no waterproof solutions to prevent these scams. The end of the article summarizes the situation well: "[...] people should take things into their own hands by frequently backing up their data and performing safety checks to avoid getting hacked in the first place. That also means being aware of common online scams — everything from phishing emails to malicious links - and knowing how to avoid them."]]></summary></entry><entry><title type="html">Credit cards stolen by faked Booking.com site</title><link href="https://safetyrail.app/news/2023/10/02/faked-bookingcom" rel="alternate" type="text/html" title="Credit cards stolen by faked Booking.com site" /><published>2023-10-02T00:00:00+03:00</published><updated>2023-10-02T00:00:00+03:00</updated><id>https://safetyrail.app/news/2023/10/02/faked-bookingcom</id><content type="html" xml:base="https://safetyrail.app/news/2023/10/02/faked-bookingcom"><![CDATA[<hgroup>
     <h3>Credit cards stolen by faked Booking.com site</h3>
     <h3>How hotel hackers redirect guests to fake Booking.com to steal cards.</h3>
 </hgroup>
