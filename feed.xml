@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://safetyrail.app/feed.xml" rel="self" type="application/atom+xml" /><link href="https://safetyrail.app/" rel="alternate" type="text/html" /><updated>2023-10-04T12:44:56+03:00</updated><id>https://safetyrail.app/feed.xml</id><entry><title type="html">How thousands of meta accounts got hacked and what would have prevented it</title><link href="https://safetyrail.app/news/2023/10/03/anatomy-of-facebook-account-breaches" rel="alternate" type="text/html" title="How thousands of meta accounts got hacked and what would have prevented it" /><published>2023-10-03T00:00:00+03:00</published><updated>2023-10-03T00:00:00+03:00</updated><id>https://safetyrail.app/news/2023/10/03/anatomy-of-facebook-account-breaches</id><content type="html" xml:base="https://safetyrail.app/news/2023/10/03/anatomy-of-facebook-account-breaches"><![CDATA[<hgroup>
-    <h3>How thousands of meta accounts got hacked and what would have prevented it</h3>
-    <h3>Vox discusses the anatomy of Facebook account breaches, and we examine both the causes behind them and the preventive measures that could have been taken.</h3>
-</hgroup>
-
-<p>
-    <img src="/assets/images/some.jpg" alt="Social media apps" />
-</p>
-<p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://safetyrail.app/feed.xml" rel="self" type="application/atom+xml" /><link href="https://safetyrail.app/" rel="alternate" type="text/html" /><updated>2023-10-10T18:30:35+03:00</updated><id>https://safetyrail.app/feed.xml</id><entry><title type="html">How thousands of meta accounts got hacked and how that could have been prevented</title><link href="https://safetyrail.app/articles/anatomy-of-facebook-account-breaches" rel="alternate" type="text/html" title="How thousands of meta accounts got hacked and how that could have been prevented" /><published>2023-10-03T09:54:55+03:00</published><updated>2023-10-03T09:54:55+03:00</updated><id>https://safetyrail.app/articles/anatomy-of-facebook-account-breaches</id><content type="html" xml:base="https://safetyrail.app/articles/anatomy-of-facebook-account-breaches"><![CDATA[<p>
     Losing a Facebook account might not seem like the most significant issue, but losing a decade's worth of memories and Messenger chat history is indeed a major loss for many. Furthermore, losing access to third-party apps and websites where users have utilized Facebook Login for signing up can be a big headache.
  </p>
  <p>
@@ -35,25 +27,14 @@
 
 <p>
     There are no waterproof solutions to prevent these scams. The end of the article summarizes the situation well: 
-    
-    <blockquote>
-        "[...] people should take things into their own hands by frequently backing up their data and performing safety checks to avoid getting hacked in the first place. That also means being aware of common online scams — everything from phishing emails to malicious links - and knowing how to avoid them."
-    </blockquote>
 </p>
-
-<!--more-->
-
-<p>
-    <a href="https://www.vox.com/technology/2023/9/28/23892964/facebook-account-hacked-theft-stolen-online-scams-meta" rel=”noopener noreferrer" target="_blank">Read the original article on Vox  &#187;</a>
-</p>]]></content><author><name></name></author><summary type="html"><![CDATA[How thousands of meta accounts got hacked and what would have prevented it Vox discusses the anatomy of Facebook account breaches, and we examine both the causes behind them and the preventive measures that could have been taken. Losing a Facebook account might not seem like the most significant issue, but losing a decade's worth of memories and Messenger chat history is indeed a major loss for many. Furthermore, losing access to third-party apps and websites where users have utilized Facebook Login for signing up can be a big headache. So first of all, to prevent data loss, occasional backups are recommended (especially if you have photos of passed soldiers or chat logs related to custody disputes, as mentioned by the individuals intervieweded): Download a copy of your information on Facebook: https://www.facebook.com/help/212802592074644 Download a copy of your information on Messenger: https://www.facebook.com/help/messenger-app/713635396288741 How were the accounts hacked? Common methods for account hacks include weak or reused passwords, email compromise, or phishing. Many accounts have been hacked through cookie hijacking, which is often caused by malware (such as malicious browser extensions) on the victim's computer. Multi-factor authentication can prevent password-based attacks, but if the session is active and a cookie is stolen, the attacker gains access to the platform. Platforms could mitigate further losses by implementing techniques such as enforcing re-login when a user's geographical location changes or requiring MFA when significant changes are made (e.g., email address, phone number, password). Compromised Facebook accounts are used for various schemes. One common method to leverage breached accounts is to exploit the trust among the account holder's contacts. Sending phishing or promotional messages to the profile's friends provides a head start for further scams. Another mentioned tactic is to conduct Facebook marketing using the stolen account. If the account has payment methods available, the attacker can run their own advertisement campaigns "for free". There are no waterproof solutions to prevent these scams. The end of the article summarizes the situation well: "[...] people should take things into their own hands by frequently backing up their data and performing safety checks to avoid getting hacked in the first place. That also means being aware of common online scams — everything from phishing emails to malicious links - and knowing how to avoid them."]]></summary></entry><entry><title type="html">Credit cards stolen by faked Booking.com site</title><link href="https://safetyrail.app/news/2023/10/02/faked-bookingcom" rel="alternate" type="text/html" title="Credit cards stolen by faked Booking.com site" /><published>2023-10-02T00:00:00+03:00</published><updated>2023-10-02T00:00:00+03:00</updated><id>https://safetyrail.app/news/2023/10/02/faked-bookingcom</id><content type="html" xml:base="https://safetyrail.app/news/2023/10/02/faked-bookingcom"><![CDATA[<hgroup>
-    <h3>Credit cards stolen by faked Booking.com site</h3>
-    <h3>How hotel hackers redirect guests to fake Booking.com to steal cards.</h3>
-</hgroup>
+<blockquote>
+    "[...] people should take things into their own hands by frequently backing up their data and performing safety checks to avoid getting hacked in the first place. That also means being aware of common online scams — everything from phishing emails to malicious links - and knowing how to avoid them."
+</blockquote>
 
 <p>
-    <img src="/assets/images/hotel.jpg" alt="Hotel" />
-</p>
-<p>
+    <a href="https://www.vox.com/technology/2023/9/28/23892964/facebook-account-hacked-theft-stolen-online-scams-meta" rel=”noopener noreferrer" target="_blank">Read the original article on Vox &#187;</a>
+</p>]]></content><author><name></name></author><category term="meta" /><category term="phishing" /><category term="malware" /><summary type="html"><![CDATA[Vox discusses the anatomy of Facebook account breaches, and we examine both the causes behind them and the preventive measures that could have been taken.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://safetyrail.app/assets/images/some.jpg" /><media:content medium="image" url="https://safetyrail.app/assets/images/some.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Credit cards stolen by faked Booking.com site</title><link href="https://safetyrail.app/articles/faked-bookingcom" rel="alternate" type="text/html" title="Credit cards stolen by faked Booking.com site" /><published>2023-10-02T10:14:12+03:00</published><updated>2023-10-02T10:14:12+03:00</updated><id>https://safetyrail.app/articles/faked-bookingcom</id><content type="html" xml:base="https://safetyrail.app/articles/faked-bookingcom"><![CDATA[<p>
     In the attack described by Bleeping Computer, the attacker first establishes communication with a hotel and tricks them into installing 
     info-stealing malware that operates silently on the hotel's computer. With access to messaging with legitimate customers, the cybercriminal 
     can now send convincing messages to the final victims, the hotel customers.
@@ -64,30 +45,20 @@
     the best way to detect this scam is to observe that the payment site is not running on the correct domain name.
 </p>
 
-<!--more-->
-
 <p>
-    <a href="https://www.bleepingcomputer.com/news/security/hotel-hackers-redirect-guests-to-fake-bookingcom-to-steal-cards/" rel=”noopener noreferrer" target="_blank">Read the article on Bleeping Computer  &#187;</a>
-</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Credit cards stolen by faked Booking.com site How hotel hackers redirect guests to fake Booking.com to steal cards. In the attack described by Bleeping Computer, the attacker first establishes communication with a hotel and tricks them into installing info-stealing malware that operates silently on the hotel's computer. With access to messaging with legitimate customers, the cybercriminal can now send convincing messages to the final victims, the hotel customers. The message requests additional credit card verification, leading the victim to a fake Booking.com payment page. Since the messaging appears to come genuinely from the hotel, the best way to detect this scam is to observe that the payment site is not running on the correct domain name.]]></summary></entry><entry><title type="html">Half of Cyber-Attacks Go Unreported</title><link href="https://safetyrail.app/news/2023/10/01/half-of-cyber-attacks-unreported" rel="alternate" type="text/html" title="Half of Cyber-Attacks Go Unreported" /><published>2023-10-01T00:00:00+03:00</published><updated>2023-10-01T00:00:00+03:00</updated><id>https://safetyrail.app/news/2023/10/01/half-of-cyber-attacks-unreported</id><content type="html" xml:base="https://safetyrail.app/news/2023/10/01/half-of-cyber-attacks-unreported"><![CDATA[<hgroup>
-    <h3>Half of cyber-attacks are not reported by IT leaders</h3>
-    <h3>According to a recent study, half of cyber-attacks are not reported internally or externally</h3>
-</hgroup>
-
-<p>
-    <img src="/assets/images/archive.jpg" alt="Archive" />
-</p>
-<p>
+    <a href="https://www.bleepingcomputer.com/news/security/hotel-hackers-redirect-guests-to-fake-bookingcom-to-steal-cards/" rel=”noopener noreferrer" target="_blank">Read the article on Bleeping Computer</a>
+</p>]]></content><author><name></name></author><category term="phishing" /><category term="malware" /><summary type="html"><![CDATA[How hotel hackers redirected guests to a fake Booking.com site to steal credit cards]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://safetyrail.app/assets/images/hotel.jpg" /><media:content medium="image" url="https://safetyrail.app/assets/images/hotel.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Half of cyber-attacks go unreported</title><link href="https://safetyrail.app/articles/half-of-cyber-attacks-unreported" rel="alternate" type="text/html" title="Half of cyber-attacks go unreported" /><published>2023-10-01T15:01:35+03:00</published><updated>2023-10-01T15:01:35+03:00</updated><id>https://safetyrail.app/articles/half-of-cyber-attacks-unreported</id><content type="html" xml:base="https://safetyrail.app/articles/half-of-cyber-attacks-unreported"><![CDATA[<p>
     The Cybersecurity Disasters Survey Incident Reporting &amp; Disclosure Study has gained attention from Infosecurity Magazine, 
     which reports that 40% of IT and security leaders have faced cyber-attacks, but 41% of them didn't report the incident internally, 
     and 48% hid it from authorities.
 </p>
-<p>    
+<p>
     The number of leaders who are worried about the state of security is even greater: 74% admitted they were concerned about a future 
     "cybersecurity disaster" impacting their organization.
 </p>
-
-<!--more-->
-
+<blockquote>
+    The survey was conducted on 400 It and security leaders throughout 2023 by Keeper Security and TrendCandy Research.
+</blockquote>
 <p>
-    <a href="https://www.infosecurity-magazine.com/news/half-cyberattacks-go-unreported/" rel=”noopener noreferrer" target="_blank">Read the article on Infosecurity Magazine  &#187;</a>
-</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Half of cyber-attacks are not reported by IT leaders According to a recent study, half of cyber-attacks are not reported internally or externally The Cybersecurity Disasters Survey Incident Reporting &amp; Disclosure Study has gained attention from Infosecurity Magazine, which reports that 40% of IT and security leaders have faced cyber-attacks, but 41% of them didn't report the incident internally, and 48% hid it from authorities. The number of leaders who are worried about the state of security is even greater: 74% admitted they were concerned about a future "cybersecurity disaster" impacting their organization.]]></summary></entry></feed>
+    <a href="https://www.infosecurity-magazine.com/news/half-cyberattacks-go-unreported/" rel=”noopener noreferrer" target="_blank">Read the article on Infosecurity Magazine &#187;</a>
+</p>]]></content><author><name></name></author><category term="reporting" /><summary type="html"><![CDATA[According to a recent study, half of cyber-attacks are not reported internally or externally]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://safetyrail.app/assets/images/archive.jpg" /><media:content medium="image" url="https://safetyrail.app/assets/images/archive.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
